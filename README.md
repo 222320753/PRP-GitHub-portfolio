@@ -111,6 +111,28 @@ I now have a cv that accurately represents me as a potential candidate for futur
 
 ---
 
+## Business communication
+
+### Evidence
+
+![Business Communication](Business_Communication.png)
+
+#### REFLECTION
+
+**Situation:** 
+For Business Communication, I learnt how important proper business communication is in the workplace
+
+**Task:** 
+I wanted to learn when I should use formal communication, the recommended tone for emails, the recommended etiquette for virtual backgrounds and non-verbal communication.
+
+**Action:** 
+I learnt when to use formal communication, what tone to use for emails, what virtual backgrounds and how to read non-verbal communication.
+
+**Result:**
+I now know how to use proper communication in the business environment.
+
+---
+
 
 
 
