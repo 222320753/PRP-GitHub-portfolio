@@ -115,7 +115,7 @@ I now have a cv that accurately represents me as a potential candidate for futur
 
 ### Evidence
 
-![Business Communication](Business_Communication.png)
+![Business_Communication](Business_Communication.png)
 
 #### REFLECTION
 
