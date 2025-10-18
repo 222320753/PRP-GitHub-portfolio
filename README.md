@@ -173,7 +173,7 @@ I had to record a mock interview where I had to answer questions in a simulated 
 I recorded my mock interview where I applied the CAR method and answered questions like “What is your greatest weakness?” and “Tell me about yourself”. I then uploaded the video to my GitHub profile.
 
 **Result:**
-I recorded a mock interview where I displayed the interview I learnt.
+I recorded a mock interview where I displayed the interview skills I learnt.
 
 ---
 
