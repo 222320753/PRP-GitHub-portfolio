@@ -133,7 +133,94 @@ I now know how to use proper communication in the business environment.
 
 ---
 
+## Interview skills
 
+### Evidence
+
+![Interview Skills](Interview%20Skills.png)
+
+#### Reflection
+
+**Situation:** 
+For Interview skills, I learnt about the importance of interview skills and how to answer interview questions properly.
+
+**Task:**
+I wanted to learn about the CAR (Context, Action, Result) method and the best ways to answer interview questions.
+
+**Action:** 
+I learnt how to apply the CAR method to interview questions, how to correctly answer interview questions such as “what is your greatest weakness?” and “Tell me about yourself”. I also learnt about the importance of researching a company before an interview.
+
+**Result:** 
+I gained the appropriate interview skills to prepare me for any interview.
+
+---
+
+## Mock interview
+
+### Evidence
+
+https://github.com/222320753/222320753AshleyAchilles
+
+#### Reflection
+
+**Situation:**
+For the mock interview, I had to record a mock interview to show the interview skills I had learnt.
+
+**Task:**
+I had to record a mock interview where I had to answer questions in a simulated interview environment.
+
+**Action:**
+I recorded my mock interview where I applied the CAR method and answered questions like “What is your greatest weakness?” and “Tell me about yourself”. I then uploaded the video to my GitHub profile.
+
+**Result:**
+I recorded a mock interview where I displayed the interview I learnt.
+
+---
+
+## Professional networking
+
+### Evidence
+
+![Professional Networking](Professional%20Networking.png)
+
+#### Reflection
+
+**Situation:**
+For professional networking, I learnt about the importance of professional networking and what common mistakes to avoid in professional networking.
+
+**Task:**
+I wanted to learn about the importance of professional networking, the golden rule of networking and common mistakes to avoid when networking.
+
+**Action:**
+I learnt how to take the first steps towards professional networking, the importance of professional networking, the golden rule of professional networking and what the primary purpose of professional networking.
+
+**Result:**
+I learnt the necessary skills to start professional networking.
+
+---
+
+## Workplace etiquette
+
+### Evidence
+
+![Workplace Etiquette](Workplace%20Etiquette.png)
+
+#### Reflection
+
+**Situation:**
+For Workplace etiquette, I learnt about how to properly conduct myself in the workplace.
+
+**Task:**
+I wanted to learn about the aspects of workplace etiquette such as:
+What time to arrive for meetings
+How to deal with work emails that have rude or offensive tones
+How to deal with confidential information
+
+**Action:**
+I learnt how to respond to emails with rude or offensive, when to arrive for meetings and how to deal with confidential information in the workplace.
+
+**Result:**
+I gained the necessary workplace etiquette knowledge.
 
 
 
